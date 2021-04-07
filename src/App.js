@@ -238,7 +238,8 @@ function App() {
   <div class="tv">
     <div class="tv__front face"> </div>
     <div class="tv__back face"> </div>
-    <div class="tv__right face"> </div>
+    <div class="tv__right face"> 
+    {/* This is my lovely iframe for the web frame <iframe src="https://css-tricks.com"></iframe>*/}</div>
     <div class="tv__left face"> </div>
     <div class="tv__top face"> </div>
     <div class="tv__bottom face"> </div>

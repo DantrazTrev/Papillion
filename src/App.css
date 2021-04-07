@@ -969,6 +969,7 @@ body {
   transform-origin: bottom left;
   transform: rotateX(-90deg) translateZ(6vw);
 }
+
 .tv__back {
   width: 0.5vw;
   height: 6vw;
@@ -1026,7 +1027,18 @@ body {
   background-position: bottom;
   opacity: 0.8;
 }
+//Probably where the web model would go
+/*.tv__right iframe {
+  position: absolute;
+  height: 800%;
+width: 800%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.125)*
+  
+  
 
+}*/
 .tv__left {
   display: flex;
   justify-content: center;
