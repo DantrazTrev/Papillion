@@ -1,7 +1,12 @@
 
-## Le Papillion Room model
+## Le Papillion 🦋 Room model
 
-This is the room model for le 
+This is the room model for Le Papillion, currently we'll only be supporting a subframe handling because the script is getting heavy to be dealt with in a hug blob of css redering .
+
+Future goals might include shifiting to three.js or three-fiber , But currently the situation seems not that good considering how heavy the is .
+
+
+
 
 ## Running Scripts
 
